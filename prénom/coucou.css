@@ -1,0 +1,28 @@
+.rouge{
+    color: brown
+
+
+}
+.soulignertexte{
+    text-decoration: underline;
+}
+img{
+        width:100px;
+
+}
+div{
+
+    border-style: solid;
+    border-color: brown;
+
+}
+.boite{
+    border: 4px blue solid;
+    width: 50%;
+    display: flex
+
+
+}
+.container{
+    width: 105px;
+}
